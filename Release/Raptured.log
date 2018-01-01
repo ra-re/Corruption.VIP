@@ -1,0 +1,38 @@
+﻿  AntiAntiAim.cpp
+  Autowall.cpp
+  Chams.cpp
+  Controls.cpp
+  CRC32.cpp
+  DLLMain.cpp
+  Dumping.cpp
+  EnginePrediction.cpp
+  Entities.cpp
+  ESP.cpp
+  GUI.cpp
+  Hacks.cpp
+  Hooks.cpp
+  ReflectiveLoader.cpp
+  Interfaces.cpp
+  IPrediction.cpp
+  lagcomp.cpp
+  LegitBot.cpp
+  MathFunctions.cpp
+  Menu.cpp
+  MetaInfo.cpp
+  MiscHacks.cpp
+  NetVarManager.cpp
+  NetVars.cpp
+  Offsets.cpp
+  oofsetts.cpp
+  RageBot.cpp
+  RenderManager.cpp
+  Resolver.cpp
+  SpoofedConvar.cpp
+  tinyxml2.cpp
+  UTIL Functions.cpp
+  Utilities.cpp
+  Visual.cpp
+  Window.cpp
+     Creating library C:\Users\davis\Desktop\raptured-master\Release\Raptured.lib and object C:\Users\davis\Desktop\raptured-master\Release\Raptured.exp
+  Raptured.vcxproj -> C:\Users\davis\Desktop\raptured-master\Release\Raptured.dll
+  Raptured.vcxproj -> C:\Users\davis\Desktop\raptured-master\Release\Raptured.pdb (Full PDB)
